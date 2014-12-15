@@ -1,5 +1,5 @@
 ﻿// Host
-var baseUrl = 'http://localhost:8080';
+var baseUrl = 'https://a1.easemob.com';
 
 // 初始化加载
 $(function() {
